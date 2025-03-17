@@ -7,6 +7,8 @@ The game includes a progress saving and loading system.
 
 This project is not too complicated and is open to expansion.
 
+The game is in Polish language.
+
 **Some screenshots from the game:**
 
 * Main Menu
