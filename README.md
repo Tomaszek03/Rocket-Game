@@ -1,4 +1,4 @@
-# Rocket-Game
+# Rocket Game
 ### Simple game in C++ using SFML
 
 I created this game in order to learn basics of SFML library.
